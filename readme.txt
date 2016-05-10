@@ -8,3 +8,4 @@ add merge
 Creating a new branch is quick.
 today 2016-05-10
 Creating a new branch is quick & simple.
+Creating a new branch feature1
